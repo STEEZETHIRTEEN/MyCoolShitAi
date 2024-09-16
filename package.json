@@ -1,0 +1,14 @@
+{
+  "name": "package.jsonfile",
+  "version": "1.0.0",
+  "description": "ai cool cool cool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.16.8"
+  }
+}
